@@ -20,11 +20,11 @@ This project demonstrates React fundamentals like component-based architecture, 
 
 📂 src/
 ├── components/
-│   ├── App.jsx
-│   ├── GameBoard.jsx
-│   ├── Gameover.jsx
-│   ├── Player.jsx
-│   ├── Log.jsx
+│ ├── App.jsx
+│ ├── GameBoard.jsx
+│ ├── Gameover.jsx
+│ ├── Player.jsx
+│ ├── Log.jsx
 │
 ├── winning-combination.js
 ├── index.js
@@ -65,9 +65,7 @@ npm start
 - Add sound effects or animations
 
 
-🖋️ Author
+🖋️ Author 
  👨‍💻 Sabir Hussain Teli 
- 
  🎓 B.Tech in Computer Science Engineering, Jain University
- 
   [LinkedIn](https://www.linkedin.com/in/sabirhussainteli)
