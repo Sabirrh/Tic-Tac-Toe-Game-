@@ -16,6 +16,7 @@ This project demonstrates React fundamentals like component-based architecture, 
 ✅ Simple, clean, and responsive UI
 
 
+
 🧩 Project Structure
 
 📂 src/
