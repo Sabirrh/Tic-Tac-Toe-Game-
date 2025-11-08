@@ -66,6 +66,8 @@ npm start
 
 
 🖋️ Author
-👨‍💻 Sabir Hussain Teli
-🎓 B.Tech in Computer Science Engineering, Jain University
+ 👨‍💻 Sabir Hussain Teli 
+ 
+ 🎓 B.Tech in Computer Science Engineering, Jain University
+ 
   [LinkedIn](https://www.linkedin.com/in/sabirhussainteli)
